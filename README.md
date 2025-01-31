@@ -1,13 +1,23 @@
-- 👋 Hi, I’m **Francisco Rodriguez** (@fjdpr)
+# Hi there, I'm Francisco Rodriguez! 👋
 
-- 👀 I’m interested in transforming complex data into actionable insights and enhancing profitability and efficiency.
+Welcome to my GitHub profile! I am passionate about transforming complex data into actionable insights and enhancing profitability and efficiency. Below you will find more information about me, my interests, and how to get in touch.
 
-- 🌱 I’m currently learning advanced analytics tools and further honing my skills in Python and SQL.
+## 👀 Interests
+- Transforming complex data into actionable insights
+- Enhancing profitability and efficiency
 
-- 💞️ I’m looking to collaborate on data analytics projects, process improvement initiatives, and strategic planning tasks.
+## 🌱 Currently Learning
+- Advanced analytics tools
+- Further honing my skills in Python and SQL
 
-- 📫 How to reach me:
-  - **Email:** [fjdpr@hotmail.com](mailto:fjdpr@hotmail.com)
-  - **LinkedIn:** [fco-rod](https://www.linkedin.com/in/fco-rod)
+## 💞️ Looking to Collaborate On
+- Data analytics projects
+- Process improvement initiatives
+- Strategic planning tasks
 
-- ⚡ Fun fact: I have a knack for finding patterns in seemingly chaotic datasets!
+## 📫 How to Reach Me
+- **Email:** [fjdpr@hotmail.com](mailto:fjdpr@hotmail.com)
+- **LinkedIn:** [fco-rod](https://www.linkedin.com/in/fco-rod)
+
+## ⚡ Fun Fact
+I have a knack for finding patterns in seemingly chaotic datasets!
